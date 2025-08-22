@@ -17,7 +17,7 @@ Como usar FullCalendar com PHP e JavaScript.
 - 5 - [Como editar evento no FullCalendar com PHP.](https://www.youtube.com/watch?v=SO-FdD47A4E&list=PLmY5AEiqDWwCc0zrqDNp2PgTixO3P72kO&index=5)
 - 6 - [Como apagar evento no FullCalendar com PHP.](https://www.youtube.com/watch?v=sIwyu3Nz_po&list=PLmY5AEiqDWwCc0zrqDNp2PgTixO3P72kO&index=6)
 - 7 - [Como acrescentar nova coluna no FullCalendar com PHP.](https://www.youtube.com/watch?v=wz5rlO2GeIo&list=PLmY5AEiqDWwCc0zrqDNp2PgTixO3P72kO&index=7)
-- 8 - [Como indicar para quall usuário pertence o evento no FullCalendar no PHP.](https://www.youtube.com/watch?v=iTsLHHKKm9A&list=PLmY5AEiqDWwCc0zrqDNp2PgTixO3P72kO&index=8)
+- 8 - [Como indicar para qual usuário pertence o evento no FullCalendar no PHP.](https://www.youtube.com/watch?v=iTsLHHKKm9A&list=PLmY5AEiqDWwCc0zrqDNp2PgTixO3P72kO&index=8)
 - 9 - [Como recuperar somente os eventos do usuário no FullCalendar com PHP.](https://www.youtube.com/watch?v=kjP6cXvzoys&list=PLmY5AEiqDWwCc0zrqDNp2PgTixO3P72kO&index=9)
 - 10 - [Como cadastrar profissional e cliente no FullCalendar com PHP.](https://www.youtube.com/watch?v=S55Yiri7fsk&list=PLmY5AEiqDWwCc0zrqDNp2PgTixO3P72kO&index=10)
 - 11 - [Como listar os agendamentos do cliente no FullCalendar com PHP.](https://www.youtube.com/watch?v=MB7j7jCMzUw&list=PLmY5AEiqDWwCc0zrqDNp2PgTixO3P72kO&index=11)
