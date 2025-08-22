@@ -1,0 +1,18 @@
+
+19/08/2025
+#1 - Como usar FullCalendar com PHP e listar eventos do banco de dados
+-Como utilizar o FullCalender.
+-Como traduzir para portugues. 
+-Como listar registro do banco de dados.
+-Utilizando a versão v6.1.9.
+
+#2 - Como usar FullCalendar com Bootstrap 5.
+- Linkar bootsrap do fullcalendar em packages bootstrap5.
+- Linkar Bootstrap do framework.
+- setar o uso do boottsrap no config do fullcalendar.
+
+#3 - Como ver detalhes do evento na janela modal com FullCalendar e Bootstrap
+- Adicionar modal e setar config no javascript
+- Configuração do vinculo no javascript
+
+#4 - Como cadastrar evento FullCalendar com PHP (continuar)
