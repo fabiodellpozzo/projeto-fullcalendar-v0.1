@@ -8,7 +8,7 @@ Como usar FullCalendar com PHP e JavaScript
 
 ## Playlist
 - 1 - [Como usar FullCalendar com PHP e listar eventos do banco de dados.](https://www.youtube.com/watch?v=Wc67ihjfk3A&list=PLmY5AEiqDWwCc0zrqDNp2PgTixO3P72kO&index=1&t=1s)
-- 2 - Como usar FullCalendar com Bootstrap 5.
+- 2 - [Como usar FullCalendar com Bootstrap 5.](https://www.youtube.com/watch?v=LGylIRh6oms&list=PLmY5AEiqDWwCc0zrqDNp2PgTixO3P72kO&index=2)
 - 3 - Como ver detalhes do evento na janela modal com FullCalendar e Bootstrap 5.
 - 4 - Como cadastrar evento FullCalendar com PHP.
 - 5 - Como editar evento no FullCalendar com PHP.
